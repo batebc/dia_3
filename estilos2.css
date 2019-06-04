@@ -1,0 +1,22 @@
+div[name]{
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 10px;
+}
+#padre + div{
+    border-style: double;
+    border-width: 14px;
+    border-color: seagreen;
+    border-radius: 40px;
+}
+#padre > div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-style: dashed;
+    border-color: blueviolet;
+}
+
+#letra{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}

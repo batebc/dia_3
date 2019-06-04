@@ -1,0 +1,32 @@
+body{
+    width: 600px;
+    padding-top: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+header{
+    background: skyblue;
+    color:whitesmoke;
+}
+nav{
+    font-weight: 100;
+    font:menu;
+    text-align: center;
+}
+h2{
+    background:whitesmoke;
+    color:rgba(red, green, blue, alpha)
+}
+main{
+    background: silver;
+}
+
+#articulo1{
+    color: aqua;
+    background: bisque;
+}
+
+.receta{
+    color: lightcoral;
+    background: gold;
+}
